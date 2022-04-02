@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/senya-on-free/static/css/main.7eb95b18.css",
-    "main.js": "/senya-on-free/static/js/main.a25a42b6.js",
+    "main.css": "/senya-on-free/static/css/main.7d120127.css",
+    "main.js": "/senya-on-free/static/js/main.df6b9b20.js",
     "static/js/787.e8d696a1.chunk.js": "/senya-on-free/static/js/787.e8d696a1.chunk.js",
     "static/media/senya.jpeg": "/senya-on-free/static/media/senya.49c8431c9146f5076dbe.jpeg",
     "index.html": "/senya-on-free/index.html",
-    "main.7eb95b18.css.map": "/senya-on-free/static/css/main.7eb95b18.css.map",
-    "main.a25a42b6.js.map": "/senya-on-free/static/js/main.a25a42b6.js.map",
+    "main.7d120127.css.map": "/senya-on-free/static/css/main.7d120127.css.map",
+    "main.df6b9b20.js.map": "/senya-on-free/static/js/main.df6b9b20.js.map",
     "787.e8d696a1.chunk.js.map": "/senya-on-free/static/js/787.e8d696a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7eb95b18.css",
-    "static/js/main.a25a42b6.js"
+    "static/css/main.7d120127.css",
+    "static/js/main.df6b9b20.js"
   ]
 }
