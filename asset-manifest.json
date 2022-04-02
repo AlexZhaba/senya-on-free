@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Senya-on-free/static/css/main.31e592b9.css",
+    "main.js": "/Senya-on-free/static/js/main.76d7cd33.js",
+    "static/js/787.677f70fb.chunk.js": "/Senya-on-free/static/js/787.677f70fb.chunk.js",
+    "static/media/senya.jpeg": "/Senya-on-free/static/media/senya.49c8431c9146f5076dbe.jpeg",
+    "index.html": "/Senya-on-free/index.html",
+    "main.31e592b9.css.map": "/Senya-on-free/static/css/main.31e592b9.css.map",
+    "main.76d7cd33.js.map": "/Senya-on-free/static/js/main.76d7cd33.js.map",
+    "787.677f70fb.chunk.js.map": "/Senya-on-free/static/js/787.677f70fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31e592b9.css",
+    "static/js/main.76d7cd33.js"
+  ]
+}
